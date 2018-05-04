@@ -11,3 +11,5 @@ collections:
 theme: minima
 minima:
   date_format: "%d %b de %Y"
+header_pages:
+  - index.html

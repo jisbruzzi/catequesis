@@ -1,7 +1,7 @@
 ---
-layout: page
 published: false
 ---
+
 # La biblia
 
 La biblia es una coleccion de libros **inspirados por Dios**.
