@@ -11,3 +11,15 @@ collections:
 theme: minima
 minima:
   date_format: "%d %b de %Y"
+---
+layout: page
+permalink: /biblia-at/antiguo-testamento.html
+---
+layout: page
+permalink: /biblia-at/citas-torneo.html
+---
+layout: page
+permalink: /biblia-at/clases-de-biblia.html
+---
+layout: page
+permalink: /biblia-at/index.html
