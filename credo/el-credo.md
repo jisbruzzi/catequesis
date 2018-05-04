@@ -1,42 +1,59 @@
 # El credo
 
 Creo en Dios, 
+
 Padre Todopoderoso, 
+
 Creador del cielo y de la tierra; 
+
 Creo en Jesucristo, 
 
 
 
 su único Hijo,
+
 Nuestro Señor, 
+
 que fue concebido 
+
 por obra y gracia del Espíritu Santo, 
 
 
 
 nació de Santa María Virgen, 
+
 padeció bajo el poder de Poncio Pilato, 
+
 fue crucificado, muerto y sepultado, 
+
 descendió a los infiernos,
 
 
 
 al tercer día resucitó de entre los muertos, 
+
 subió a los cielos 
+
 y está sentado a la derecha de Dios, 
+
 Padre Todopoderoso; 
 
 
 
 Desde allí ha de venir a juzgar 
+
 a los vivos y a los muertos. 
+
 Creo en el Espíritu Santo,
+
 la santa Iglesia católica, 
 
 
 
 la comunión de los santos, 
-el perdón de los pecados, 
-la resurrección de la carne 
-y la vida eterna. Amén.
 
+el perdón de los pecados, 
+
+la resurrección de la carne 
+
+y la vida eterna. Amén.
