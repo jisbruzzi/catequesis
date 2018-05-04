@@ -1,6 +1,6 @@
 Este sitio público vamos a usarlo para pasarles material de la catequesis.
 
-Al pie del cañón todos los domingos, llueva, truene, haya tsunami, tornado, terremoto, etc.
+Al pié del cañón todos los domingos, llueva, truene, haya tsunami, tornado, terremoto, etc.
 
 
 ## [El centro de nuestra fe y el credo](credo/)
