@@ -8,6 +8,6 @@ collections:
   uploads:
     title: Uploads
     output: true
-remote_theme: jekyll/minima
+theme: minima
 minima:
   date_format: "%d %b de %Y"
