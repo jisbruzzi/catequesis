@@ -1,3 +1,8 @@
+---
+title: Citas Torneo
+date: 2018-05-04 21:45:35.153000000 Z
+---
+
 # Citas
 Después de la intro a Biblia se hace un torneo de bíblia: de a 3 se ponen en grupos y tienen que buscar cada cita, el grupo que primero la encuentra gana.
 
