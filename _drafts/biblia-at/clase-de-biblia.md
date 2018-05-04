@@ -1,3 +1,8 @@
+---
+title: Clase De Biblia
+date: 2018-05-04 21:45:35.182000000 Z
+---
+
 # La biblia
 
 La biblia es una coleccion de libros **inspirados por Dios**.
