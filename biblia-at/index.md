@@ -1,6 +1,6 @@
 ---
+permalink: "/biblia-at.html"
 layout: page
-permalink: /biblia-at.html
 ---
 
 Hola! cómo andan?

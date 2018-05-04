@@ -1,7 +1,8 @@
 ---
+permalink: "/biblia-at/clase-de-biblia.html"
 layout: page
-permalink: /biblia-at/clase-de-biblia.html
 ---
+
 # La biblia
 
 La biblia es una coleccion de libros **inspirados por Dios**.

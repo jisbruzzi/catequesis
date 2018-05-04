@@ -1,6 +1,6 @@
 ---
+permalink: "/biblia-at/citas-torneo.html"
 layout: page
-permalink: /biblia-at/citas-torneo.html
 ---
 
 # Citas
