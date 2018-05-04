@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /biblia-at/antiguo-testamento.html
+published: false
 ---
 # La creación y el pentateuco
 ## El relato de la creación

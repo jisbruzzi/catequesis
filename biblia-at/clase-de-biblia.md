@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /biblia-at/clase-de-biblia.html
+published: false
 ---
 # La biblia
 

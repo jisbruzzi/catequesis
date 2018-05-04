@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /biblia-at/citas-torneo.html
+published: false
 ---
 
 # Citas

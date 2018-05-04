@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /biblia-at.html
+published: false
 ---
 
 Hola! cómo andan?
