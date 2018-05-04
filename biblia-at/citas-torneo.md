@@ -1,3 +1,8 @@
+---
+layout: page
+permalink: /biblia-at/citas-torneo.html
+---
+
 # Citas
 Después de la intro a Biblia se hace un torneo de bíblia: de a 3 se ponen en grupos y tienen que buscar cada cita, el grupo que primero la encuentra gana.
 

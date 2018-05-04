@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /biblia-at/antiguo-testamento.html
+---
 # La creación y el pentateuco
 ## El relato de la creación
 Leemos Gn 1 entero.

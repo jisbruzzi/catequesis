@@ -1,6 +1,6 @@
-s---
-title: Index
-date: 2018-05-04 21:45:35.214000000 Z
+---
+layout: page
+permalink: /biblia-at.html
 ---
 
 Hola! cómo andan?
