@@ -1,4 +1,4 @@
-![Pizarrón](pizarron.jpg "Pizarrón planificado")
+![Pizarrón](./pizarron.jpg "Pizarrón planificado")
 
 # La biblia
 
