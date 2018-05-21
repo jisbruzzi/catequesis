@@ -13,7 +13,7 @@ Al pi茅 del ca帽贸n todos los domingos, llueva, truene, haya tsunami, tornado, t
  - [Explicaci贸n general de la bibli](biblia/clase-de-biblia.html)
  - [Citas del torneo de biblia](biblia/citas-torneo.html)
 
-## [Clase del Ant胓uo testamento](antiguo-testamento/)
+## [Clase del Ant铆guo testamento](antiguo-testamento/)
 - [La creaci贸n y el pecado orgina](antiguo-testamento/creacion.html)
-- [Res胢en cronol胓ico desde Abraham](antiguo-testamento/historia-israel.html)
-- [Res胢en del Pentateuco](antiguo-testamento/pentateuco.html)
+- [Res煤men cronol贸gico desde Abraham](antiguo-testamento/historia-israel.html)
+- [Res煤men del Pentateuco](antiguo-testamento/pentateuco.html)
