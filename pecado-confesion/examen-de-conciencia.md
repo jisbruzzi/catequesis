@@ -1,5 +1,7 @@
 
-# Quién dice qué está bien y qué está mal? (CEC 1776, 1777, 1779, 1784)
+# Cómo confesarme
+
+## ¿Quién dice qué está bien y qué está mal? (CEC 1776, 1777, 1779, 1784)
 Dios no es un soberbio que nos castiga cuando no hacemos lo que él nos manda. Tenemos la imagen de los 10 mandamientos siendo entregados a Moisés, como si lo que está bien y lo que está mal viniera de afuera de nosotros y nos fuera impuesto. Es muy común que la gente piense que la Iglesia impone una moral en la sociedad: nada más lejos de la verdad.
 
 > El hombre tiene una ley inscrita por Dios en su corazón (CEC 1776).
@@ -14,17 +16,17 @@ La conciencia es algo que evoluciona y se educa a lo largo de toda la vida. La e
 
 La conciencia se desarrolla sobre todo por medio del conocimiento de la Palabra de Dios, y de la práctica de la fe y la oración (CEC 1802).
 
-# Qué es el pecado? (CEC 1849, 1850)
+## ¿Qué es el pecado? (CEC 1849, 1850)
 El pecado es ir contra la Ley que Dios escribió en nuestros corazones. Ir contra esta ley no es otra cosa que hacer el mal: el mal hacia nosotros, hacia los demás o hacia Dios. Porque si hago el mal, sí o sí alguien va a salir lastimado.
 
 - **El pecado es ir contra mi mismo:** La conciencia nos grita porque faltamos a la Ley que se encuentra dentro nuestro. Además, el pecado siempre me perjudica aquí y ahora, incluso aunque no sea evidente. Por ejemplo, insultar una persona en la vía pública me llena de odio, que me llevo a mi casa. Consumir pornografía carcome mi propia sexualidad. Ser avaro arruina mi relación con los demás.
 
 - **El pecado es ir contra Dios:** Como el pecado me hiere a mí y a los demás, ofende a Dios, que nos ama a mí y a mi prójimo. Así, me separa de Dios y le abre la puerta al mal en mi vida. Cuanto más lejos estoy de Dios, más peco.
 
-# Qué cosas son pecado? (CEC 1853)
+## ¿Qué cosas son pecado? (CEC 1853)
 La Ley está escrita adentro de tu corazón, pero la Iglesia conoce diversas enumeraciones de esta Ley, reveladas por Dios.
 
-## Los diez mandamientos
+### Los diez mandamientos
 1. Amarás a Dios sobre todas las cosas.
 2. No tomarás el nombre de Dios en vano.
 3. Santificarás las fiestas.
@@ -36,7 +38,7 @@ La Ley está escrita adentro de tu corazón, pero la Iglesia conoce diversas enu
 9. No consentirás pensamientos ni deseos impuros.
 10. No codiciarás los bienes ajenos.
 
-## Los pecados capitales
+### Los pecados capitales
 1. soberbia
 2. avaricia
 3. envidia
@@ -45,26 +47,26 @@ La Ley está escrita adentro de tu corazón, pero la Iglesia conoce diversas enu
 6. gula
 7. pereza
 
-## Clasificaciones de pecados
+### Clasificaciones de pecados
 - Pensamiento
 - Palabra
 - Acción
 - Omisión
 
-# La reconciliación: El sacramento de la alegría
+## La reconciliación: El sacramento de la alegría
 Por medio del sacramento de la reconciliación podés obtener la misericordia de Dios y el perdón de los pecados que cometiste (CEC 1422). La confesión te llena de la gracia de Dios, y te habilita a comulgar, si ya tomaste tu primera comunión.
 
-## Hay algún pecado que no pueda ser perdonado? (CEC 1864)
+### ¿Hay algún pecado que no pueda ser perdonado? (CEC 1864)
 La misericordia de Dios es infinita, puede perdonarlo todo. El único pecado que no puede perdonar es aquél que vos no querés que se te perdone.
 
-## Condiciones para confesarme:
+### Condiciones para confesarme:
 - Realizar un examen de conciencia.
 - Arrepentimiento o dolor por haber pecado.
 - **Proponerse no volver a pecar.**
 - Decir los pecados al confesor.
 - Cumplir la penitencia que se determine durante la confesión.
 
-## Cómo es una confesión
+### Cómo es una confesión
 
 - El sacerdote comienza la confesión, a veces con una breve oración
 - Le decís tus pecados al sacerdote, empezando por los que juzgás más graves y los que más te duelen
@@ -72,20 +74,20 @@ La misericordia de Dios es infinita, puede perdonarlo todo. El único pecado que
 - Cuando termines de decir tus pecados, se realiza la oración de absolución, que es cuando Cristo mismo te perdona por medio del sacerdote.
 - Finalmente el confesor te va a dar tu penitencia: generalmente consiste en hacer ciertas oraciones.
 
-## Aclaraciones
+### Aclaraciones
 - El sacerdote generalmente no te va a preguntar nada, o te va a preguntar poco, sólo para guiarte. Se espera que el confesado diga sus pecados.
 - El confesor no puede revelar a otros nada de lo que habló con vos bajo ninguna circunstancia.
 - Nadie más debe escuchar tu confesión: es un momento privado.
 - Sentir vergüenza y tristeza es signo de un arrepentimiento fuerte. Esto es lo que uno siente cuando se confiesa bien. 
 - Sé humilde.
-- No hay motivos para ocultar cosas al momento de confesarte: A Dios no se le puede ocultar nada, ocultarle cosas al confesor no tiene sentido.
+- No hay motivos para ocultar cosas al momento de confesarte: A Dios no se le puede ocultar nada, ocultarle cosas al confesor no tiene sentido. No calles pecados por vergüenza,
 
-# Examen de conciencia
+## Examen de conciencia
 A continuación siguen algunas preguntas que elegimos para que puedas prepararte mejor para la confesión:
 (https://www.aciprensa.com/noticias/el-vaticano-ofrece-un-examen-de-conciencia-actual-para-una-buena-confesion-en-cuaresma-20293)[fuente]
 
 
-## El Señor dice: “Amarás al Señor tu Dios con todo el corazón”
+###El Señor dice: “Amarás al Señor tu Dios con todo el corazón”
 
 1. ¿Mi corazón está verdaderamente orientado a Dios; puedo decir que lo amo verdaderamente sobre todas las cosas y con amor de hijo, en la observancia fiel de sus mandamientos?, ¿me dejo absorber demasiado por las cosas temporales?, ¿es siempre recta mi intención en el obrar?
 
@@ -100,7 +102,7 @@ A continuación siguen algunas preguntas que elegimos para que puedas prepararte
 
 6. ¿Existen para mí “otros dioses”, a saber expresiones o cosas por las cuales me intereso o en las cuales pongo más confianza que en Dios, por ejemplo: riqueza, superstición, espiritismo u otras formas de magia?
 
-## El Señor dice: “Ámense los unos a los otros, como yo los he amado”
+###El Señor dice: “Ámense los unos a los otros, como yo los he amado”
 
 1. ¿Amo verdaderamente a mi prójimo o abuso de mis hermanos, sirviéndome de ellos para mis intereses y reservando para ellos un tratamiento que no quisiera que fuese usado conmigo?, ¿he ocasionado escándalo con mis palabras y mis acciones?
 
@@ -134,7 +136,7 @@ Para cada miembro de la familia:
 
 12.   Si he recibido males, ¿me he mostrado dispuesto a reconciliarme y perdonar por amor a Cristo, o guardo en el corazón odio y deseo de venganza?
 
-## Cristo el Señor dice: “Sean perfectos como el Padre”
+###Cristo el Señor dice: “Sean perfectos como el Padre”
 
 1.       ¿Cuál es la orientación fundamental de mi vida?, ¿me doy ánimo con la esperanza de la vida eterna?, ¿he buscado reavivar mi vida espiritual con la oración, la lectura y la meditación de la palabra de Dios, la participación en los sacramentos?, ¿he practicado la mortificación?, ¿he estado pronto y decidido a cortar los vicios, someter las pasiones y las inclinaciones perversas?, ¿he respondido a los motivos de envidia, he dominado la gula?, ¿he sido presuntuoso y soberbio, despreciado a los demás y preferirme antes que a ellos?, ¿he impuesto mi voluntad a los demás, conculcando su libertad y despreciando sus derechos?
 
