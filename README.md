@@ -10,7 +10,7 @@ Al pié del cañón todos los domingos, llueva, truene, haya tsunami, tornado, t
  - [Juego para memorizar el credo](credo/juego.html)
 
 ## [Clase de biblia](biblia/)
- - [Explicación general de la bibli](biblia/clase-de-biblia.html)
+ - [Explicación general de la biblia](biblia/clase-de-biblia.html)
  - [Citas del torneo de biblia](biblia/citas-torneo.html)
 
 ## [Clase del Antíguo testamento](antiguo-testamento/)
