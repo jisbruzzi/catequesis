@@ -17,3 +17,10 @@ Al pié del cañón todos los domingos, llueva, truene, haya tsunami, tornado, t
 - [La creación y el pecado orgina](antiguo-testamento/creacion.html)
 - [Resúmen cronológico desde Abraham](antiguo-testamento/historia-israel.html)
 - [Resúmen del Pentateuco](antiguo-testamento/pentateuco.html)
+
+## [Examen de conciencia](pecado-confesion/examen-de-conciencia.html)
+(click en "Examen de cociencia" para acceder)
+
+## [La pasión](la-pasion/)
+- [Actividad](la-pasion/actividad.html)
+- [Subtitulos](la-pasion/la-pasion-subs-español.srt)
