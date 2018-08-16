@@ -24,3 +24,6 @@ Al pié del cañón todos los domingos, llueva, truene, haya tsunami, tornado, t
 ## [La pasión](la-pasion/)
 - [Actividad](la-pasion/actividad.html)
 - [Subtitulos](la-pasion/la-pasion-subs-español.srt)
+
+## Powerpoints utilizados en varias clases
+[acceder](https://marededeudelroserbadalona.jimdo.com/catequesis-adultos/)
