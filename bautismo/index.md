@@ -4,5 +4,5 @@
   - [Antonio Royo Marín - El gran desconocido (parte 1)](el-gran-desconocido-1.pdf)
   - [Antonio Royo Marín - El gran desconocido (parte 2)](el-gran-desconocido-2.pdf)
   - [Los dones del Espíritu Santo](gracia-dones.md)
-  - [Dame tus ojos, quiero ver]( https://www.youtube.com/watch?v=ewR1yBcwMj8 )
+  - [Dame tus ojos, quiero ver]( https://www.youtube.com/watch?v=ewR1yBcwMj8 ) Habla de la gracia. Nunca la nombra, pero la canción se trata de pedirle gracia a Dios.
   - [Actividad con lecturas](lecturas.md)
