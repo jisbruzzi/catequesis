@@ -3,7 +3,7 @@
 ## La gracia
 [capítulo 6 Royo Marín]
 ### Qué es la gracia
->Es un don sobrenatural infundido por Dios en nuestras almas para darnos una participación verdadera y real de su propia naturaleza devina, para hacernos hijos suyos y herederos de la gloria.
+>Es un don sobrenatural infundido por Dios en nuestras almas para darnos una participación verdadera y real de su propia naturaleza divina, para hacernos hijos suyos y herederos de la gloria.
 
  - Es _un don_, un regalo totalmente gratuito de Dios. 
  - _Nos hace verdaderos hijos de Dios._  La gracia santificante nos hace participantes de la naturaleza misma de Dios. Sin esta participación seríamos sólo criaturas de Dios, pero no hijos suyos. 
