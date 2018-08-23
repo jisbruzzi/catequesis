@@ -39,9 +39,21 @@ __Virtudes morales:__ Nos impulsan a hacer el bien.
  - Fortaleza
  - Templanza
 
-### El bautismo nos hace parte de la Iglesia e hijos adoptivos de Dios
+### El bautismo nos hace parte de la Iglesia e hijos adoptivos de Dios [1267 a 1270]
 
-PROXIMAMENTE
+Por el bautismo, todos los bautizados somos parte de la Iglesia. Esto implica que somos hijos adoptivos de Dios y que además somos *hermanos*. Ser hijo de Dios implica que el bautismo nos hace *sacerdotes, profetas y reyes*. El Bautismo hace participar en el sacerdocio común de los fieles.
+
+
+>Cristo te ha regalado una nueva vida que proviene del agua y del Espíritu Santo. Que él te unja como sacerdote, para que te dejes penetrar por el amor de Dios; como rey, para que vivas como persona libre en la conciencia de tu dignidad divina; y como profeta, para que anuncies la Palabra que Dios quiere hacer resonar en este mundo precisamente por medio de ti
+[Fuente: El Bautismo, Anselm Grün]
+
+Ser parte de la Iglesia es **hermoso** y es un **compromiso** . Es hermoso porque podemos recibir los sacramentos, que nos infunden la gracia y nos acercan a Dios. Es un *hermoso compromiso* porque pertenecer a la Iglesia implica que yo busco y quiero esa vida que nos trae Jesus, que frecuento los sacramentos y la misa".
+
+>1270 Los bautizados "renacidos [por el bautismo] como hijos de 
+>Dios están obligados a confesar delante de los hombres la fe 
+>que recibieron de Dios por medio de la Iglesia" (LG 11) y de 
+>**participar en la actividad apostólica y misionera del Pueblo de Dios** (cf LG 17; AG 7,23).
+
 
 # partes de la celebración, etc, etc... 
 PROXIMAMENTE
