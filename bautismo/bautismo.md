@@ -55,5 +55,24 @@ Ser parte de la Iglesia es **hermoso** y es un **compromiso** . Es hermoso porqu
 >**participar en la actividad apostólica y misionera del Pueblo de Dios** (cf LG 17; AG 7,23).
 
 
-# partes de la celebración, etc, etc... 
-PROXIMAMENTE
+## Celebración del bautismo [1234 a 1249]
+
+ - *Anuncio de la palabra:* Lo que vamos a aceptar
+ - *Exorcismos:* El que va a ser bautizado afirma que rechaza el pecado y el diablo
+ - *Consagración del agua:* Si es necesario, se bendice el agua a utilizarse en el bautismo
+ - *El bautismo propiamente dicho:* O bien se sumerge al bautizado o bien se derrama agua bendita sobre su cabeza. _No_ se le arrojan gotitas (aspersión). Al mismo tiempo, se dice "Yo te bautizo en el nombre del Padre, del Hijo y del Espíritu Santo".
+ - *Unción:* Significa la imborrabilidad del bautismo y anticipa la confirmación. **La confirmación consiste en "completar" el bautismo.**
+
+## ¿Cuándo se recibe el bautismo?
+
+La pueden recibir **los niños**, porque los padres *privarían al niño de la gracia inestimable de ser hijo de Dios* si no le administraran el Bautismo poco después de su nacimiento. En el caso de los niños, existe el compromiso por parte de los padres y de los padrinos de darle la catequesis cuando crezca.
+
+La pueden recibir **los adultos**, con una formación previa, para que los que se bautizan sepan exactamente qué están recibiendo.
+
+## ¿Quién puede bautizar?
+
+PRÓXIMAMENTE
+
+## El bautismo y la salvación
+
+PRÓXIMAMENTE
