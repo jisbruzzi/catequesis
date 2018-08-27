@@ -71,7 +71,21 @@ La pueden recibir **los adultos**, con una formación previa, para que los que s
 
 ## ¿Quién puede bautizar?
 
-PRÓXIMAMENTE
+ - Sacerdotes
+ - Diáconos (es un grado previo al sacerdocio)
+ - Cualquier persona (en caso de necesidad):
+     - Llamado "Agua del socorro", es un "bautismo de emergencia"
+     - Debe haber un riesgo a la vida del niño (o del adulto que se quiere bautizar), y ningún sacerdote o diácono que pueda bautizarlo antes de que muera.
+     - La persona que bautiza debe tener la intención de bautizar como lo hace la Iglesia.
+     - Debe derramar agua (aunque sea sin bendecir) sobre la cabeza del que recibe el bautismo, diciendo al mismo tiempo "[nombre], yo te bautizo en el nombre del Padre, del Hijo y del Espíritu Santo", sin decir amén ni agregar más palabras. Esta es la parte inmodificable del rito.
+
+## El bautismo bajo condición
+
+Cuando se tienen dudas respecto de la validez de un bautismo (no se sabe si el rito se hizo de forma correcta, o si había justificativos reales para realizar un bautismo de emergencia), se realiza un bautismo bajo condición. Un bautismo bajo condición es igual a uno normal, pero la fórmula se modifica, se dice: “**Si estás bautizado, yo no te bautizo otra vez, pero si aún no estás bautizado [vertiendo el agua sobre la cabeza]** yo te bautizo en el nombre del Padre, y del Hijo, y del Espíritu Santo”
+
+El bautismo es imborrable y no puede administrarse más de una vez. 
+
+Es importante dejar registrado que el niño fue bautizado.
 
 ## El bautismo y la salvación
 
