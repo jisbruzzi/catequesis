@@ -63,13 +63,13 @@ Ser parte de la Iglesia es **hermoso** y es un **compromiso** . Es hermoso porqu
  - *El bautismo propiamente dicho:* O bien se sumerge al bautizado o bien se derrama agua bendita sobre su cabeza. _No_ se le arrojan gotitas (aspersión). Al mismo tiempo, se dice "Yo te bautizo en el nombre del Padre, del Hijo y del Espíritu Santo".
  - *Unción:* Significa la imborrabilidad del bautismo y anticipa la confirmación. **La confirmación consiste en "completar" el bautismo.**
 
-## ¿Cuándo se recibe el bautismo?
+## ¿Cuándo se recibe el bautismo? [1246 a 1252]
 
 La pueden recibir **los niños**, porque los padres *privarían al niño de la gracia inestimable de ser hijo de Dios* si no le administraran el Bautismo poco después de su nacimiento. En el caso de los niños, existe el compromiso por parte de los padres y de los padrinos de darle la catequesis cuando crezca.
 
 La pueden recibir **los adultos**, con una formación previa, para que los que se bautizan sepan exactamente qué están recibiendo.
 
-## ¿Quién puede bautizar?
+## ¿Quién puede bautizar? [1256]
 
  - Sacerdotes
  - Diáconos (es un grado previo al sacerdocio)
@@ -87,6 +87,13 @@ El bautismo es imborrable y no puede administrarse más de una vez.
 
 Es importante dejar registrado que el niño fue bautizado.
 
-## El bautismo y la salvación
+Más información respecto del agua del socorro y el bautismo bajo condición:
+ - [Agua de socorro](https://es.aleteia.org/2016/06/18/en-que-consiste-el-agua-de-socorro/)
+ - [Bautismo condicional](https://es.aleteia.org/2014/07/27/que-es-el-bautismo-condicional/)
 
-PRÓXIMAMENTE
+
+## El bautismo y la salvación [1257 a 1261]
+
+>**1257** El Señor mismo afirma que el Bautismo es necesario para la salvación (cf Jn 3,5). Por ello mandó a sus discípulos a anunciar el Evangelio y bautizar a todas las naciones (cf Mt 28, 19-20; cf DS 1618; LG 14; AG 5). **El Bautismo es necesario para la salvación en aquellos a los que el Evangelio ha sido anunciado y han tenido la posibilidad de pedir este sacramento** (cf Mc 16,16). La Iglesia no conoce otro medio que el Bautismo para asegurar la entrada en la bienaventuranza eterna; por eso está obligada a no descuidar la misión que ha recibido del Señor de hacer "renacer del agua y del Espíritu" a todos los que pueden ser bautizados. Dios ha vinculado la salvación al sacramento del Bautismo, sin embargo, Él no queda sometido a sus sacramentos.
+
+Si bien el bautismo es necesario para la salvación, Dios no está limitado por sus sacramentos. Así, las personas no bautizadas todavía pueden salvarse. **Una persona a la que no haya sido anunciado el evangelio y que no haya tenido la posibilidad de ser bautizada, igualmente podría salvarse si hubiera deseado el bautismo, de conocer su necesidad.** Este bautismo misterioso vale también para todos aquellos que mueren deseando el bautismo aún sin tenerlo, y también para los niños muertos sin bautismo.

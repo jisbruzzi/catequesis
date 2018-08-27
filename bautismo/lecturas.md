@@ -6,3 +6,8 @@
  - Hch 2,  1-11  (la dificil)
  - Hch 2, 22-24
  - Hch 2, 37-41
+
+Capaz?
+Jn 3, 5
+Mt 28, 19-20
+Mc 16,16
