@@ -7,4 +7,4 @@ En esta clase se explicó qué es la gracia y qué es el Espíritu Santo.
   - [Antonio Royo Marín - El gran desconocido (parte 2)](el-gran-desconocido-2.pdf)
   - [Los dones del Espíritu Santo](gracia-dones.html)
   - [Dame tus ojos, quiero ver]( https://www.youtube.com/watch?v=ewR1yBcwMj8 ) Habla de la gracia. Nunca la nombra, pero la canción se trata de pedirle gracia a Dios.
-  - [Actividad con lecturas](lecturas.html)
+  - [Actividad con lecturas](actividad.html)
