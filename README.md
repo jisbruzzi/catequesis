@@ -36,5 +36,8 @@ En esta clase se explicó qué es la gracia y qué es el Espíritu Santo.
   - [Dame tus ojos, quiero ver]( https://www.youtube.com/watch?v=ewR1yBcwMj8 ) Habla de la gracia. Nunca la nombra, pero la canción se trata de pedirle gracia a Dios.
   - [Actividad con lecturas](gracia-es/actividad.html)
 
+## [El bautismo](bautismo/bautismo.html)
+(Click en "El bautismo" para acceder)
+
 ## Powerpoints utilizados en varias clases
 [acceder](https://marededeudelroserbadalona.jimdo.com/catequesis-adultos/)

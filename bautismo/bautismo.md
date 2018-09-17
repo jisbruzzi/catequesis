@@ -1,5 +1,10 @@
 # El bautismo
 
+Empezamos leyendo Mt 28, 16.
+
+>Los once discípulos fueron a Galilea, a la montaña donde Jesús los había citado. Al verlo, se postraron delante de el; sin embargo, algunos todavía dudaron. Acercándose, Jesús les dijo: «Yo he recibido todo poder en el cielo y en la tierra. **Vayan, y hagan que todos los pueblos sean mis discípulos, bautizándolos en el nombre del Padre y del Hijo y del Espíritu Santo**, y enseñándoles a cumplir todo lo que yo les he mandado. Y yo estaré siempre con ustedes hasta el fin del mundo».
+
+Jesús es el que instituyó el bautismo, y Jesús es el que le ordena a la Iglesia bautizar a todos.
 ## Efectos del bautismo
 
 ### El bautismo nos borra el pecado original [CEC 1263, 1264]
