@@ -41,3 +41,6 @@ En esta clase se explicó qué es la gracia y qué es el Espíritu Santo.
 
 ## Powerpoints utilizados en varias clases
 [acceder](https://marededeudelroserbadalona.jimdo.com/catequesis-adultos/)
+
+## Capítulo del Catecismo sobre el matrimonio
+[acceder](http://www.vatican.va/archive/catechism_sp/p2s2c3a7_sp.html)
